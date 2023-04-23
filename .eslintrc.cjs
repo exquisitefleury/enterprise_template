@@ -6,7 +6,6 @@ module.exports = {
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:react-hooks/recommended",
     "prettier",
-    "@commitlint/config-conventional"
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: { ecmaVersion: "latest", sourceType: "module" },
